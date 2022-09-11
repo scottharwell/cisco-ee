@@ -1,0 +1,14 @@
+---
+collections:
+  - cisco.aci
+  - cisco.asa
+  - cisco.dnac
+  - cisco.intersight
+  - cisco.ios
+  - cisco.iosxr
+  - cisco.ise
+  - cisco.meraki
+  - cisco.mso
+  - cisco.nso
+  - cisco.nxos
+  - cisco.ucs
